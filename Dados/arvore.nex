@@ -1,0 +1,113 @@
+#NEXUS
+[R-package APE, Wed Jun 12 17:01:19 2024]
+
+BEGIN TAXA;
+	DIMENSIONS NTAX = 50;
+	TAXLABELS
+		Euphorbia_peperomioides
+		Phyllanthus_oxyphyllus
+		Adenia_spinosa
+		Salix_pentandra
+		Begonia_manhaoensis
+		Potentilla_acaulis
+		Cryptandra_dielsii
+		Medicago_edgeworthii
+		Pseudarthria_hookeri
+		Derris_piscatoria
+		Galactia_regularis
+		Hoffmannseggia_humilis
+		Tetraena_longistipulata
+		Octoceras_lehmannianum
+		Rhus_ovata
+		Canarium_littorale
+		Melicope_lasioneura
+		Eucalyptus_pilligaensis
+		Pulmonaria_officinalis
+		Pentanisia_veronicoides
+		Orbea_albocastanea
+		Solanum_americanum
+		Liatris_elegantula
+		Encelia_frutescens
+		Castroviejoa_montelinasana
+		Campanula_pyramidalis
+		Viburnum_sempervirens
+		Ilex_dimorphophylla
+		Hydrangea_glabripes
+		Cerochlamys_pachyphylla
+		Opuntia_pachyrrhiza
+		Acanthophyllum_caespitosum
+		Exocarpos_sparteus
+		Davilla_pedicellaris
+		Banksia_pteridifolia
+		Protea_scolopendriifolia
+		Aconitum_piepunense
+		Dysosma_pleiantha
+		Melica_nutans
+		Elegia_galpinii
+		Apodasmia_chilensis
+		Comanthera_nitida
+		Xyris_jupicai
+		Carex_vesicaria
+		Eriochilus_cucullatus
+		Maxillaria_meleagris
+		Orthochilus_milnei
+		Pleurothallis_castellensis
+		Specklinia_remotiflora
+		Cephalanthera_rubra
+	;
+END;
+BEGIN TREES;
+	TRANSLATE
+		1	Euphorbia_peperomioides,
+		2	Phyllanthus_oxyphyllus,
+		3	Adenia_spinosa,
+		4	Salix_pentandra,
+		5	Begonia_manhaoensis,
+		6	Potentilla_acaulis,
+		7	Cryptandra_dielsii,
+		8	Medicago_edgeworthii,
+		9	Pseudarthria_hookeri,
+		10	Derris_piscatoria,
+		11	Galactia_regularis,
+		12	Hoffmannseggia_humilis,
+		13	Tetraena_longistipulata,
+		14	Octoceras_lehmannianum,
+		15	Rhus_ovata,
+		16	Canarium_littorale,
+		17	Melicope_lasioneura,
+		18	Eucalyptus_pilligaensis,
+		19	Pulmonaria_officinalis,
+		20	Pentanisia_veronicoides,
+		21	Orbea_albocastanea,
+		22	Solanum_americanum,
+		23	Liatris_elegantula,
+		24	Encelia_frutescens,
+		25	Castroviejoa_montelinasana,
+		26	Campanula_pyramidalis,
+		27	Viburnum_sempervirens,
+		28	Ilex_dimorphophylla,
+		29	Hydrangea_glabripes,
+		30	Cerochlamys_pachyphylla,
+		31	Opuntia_pachyrrhiza,
+		32	Acanthophyllum_caespitosum,
+		33	Exocarpos_sparteus,
+		34	Davilla_pedicellaris,
+		35	Banksia_pteridifolia,
+		36	Protea_scolopendriifolia,
+		37	Aconitum_piepunense,
+		38	Dysosma_pleiantha,
+		39	Melica_nutans,
+		40	Elegia_galpinii,
+		41	Apodasmia_chilensis,
+		42	Comanthera_nitida,
+		43	Xyris_jupicai,
+		44	Carex_vesicaria,
+		45	Eriochilus_cucullatus,
+		46	Maxillaria_meleagris,
+		47	Orthochilus_milnei,
+		48	Pleurothallis_castellensis,
+		49	Specklinia_remotiflora,
+		50	Cephalanthera_rubra
+	;
+	TREE * UNTITLED = [&R] ((((((((1:102.607727,(2:94.911556,(3:91.126403,4:91.126403):3.785152):7.696173):13.177806,((5:111.147979,(6:98.96176,7:98.961763)Rosales.rn.d8s.tre:12.186214)mrcaott371ott2511:1.553188,((8:57.631462,(9:44.0536,(10:35.204164,11:35.204165):8.849436):13.577863):20.331695,12:77.963156):34.738009)mrcaott371ott579:3.084369)mrcaott2ott371:1.025329,13:116.810868)fabids:1.76771,((14:104.258035,((15:51.55915,16:51.559152):28.359167,17:79.918321):24.339716)mrcaott96ott378:12.120034,18:116.378067)mrcaott96ott1276:2.200511)rosids:5.155633,((((((19:89.751039,((20:67.727842,21:67.727843)Gentianales.rn.d8s.tre:18.185265,22:85.913107)mrcaott1191ott2192:3.837931)mrcaott248ott1191:16.990343,(((((23:17.695326,24:17.695323):3.207577,25:20.902902):62.299842,26:83.202744)Asterales.rn.d8s.tre:10.527436,27:93.730187)mrcaott320ott1673:8.962629,28:102.692818)campanulids:4.04857)mrcaott248ott320:7.824889,29:114.566275)mrcaott248ott27233:5.307934,((30:82.95542,31:82.955422):4.895165,32:87.850583):32.02362)mrcaott248ott557:1.510431,33:121.384639)mrcaott248ott20991:1.196363,34:122.580998)mrcaott248ott10053:1.153209)Pentapetalae:6.590294,(35:42.449295,36:42.449295):87.875215)mrcaott2ott969:1.356169,(37:80.283045,38:80.283043):51.397631)eudicotyledons:4.077365,((((39:80.801364,(40:66.754182,41:66.754184):14.04718):8.280947,(42:77.128304,43:77.128306):11.954006):4.739179,44:93.821491):20.779045,(45:53.895831,(((46:21.537302,47:21.537301):8.905137,(48:15.940894,49:15.940896):14.501545):13.59438,50:44.036819):9.85901):60.704708)mrcaott121ott334:21.157502)mrcaott2ott121;
+END;
