@@ -1,3 +1,3 @@
 # UCS_bioinformatica_macroevolucao
 
-Este repositório contém materiais referentes ao capítulo XX do E-book "Bioinformática: Uma Janela para a Biodiversidade". 
+Este repositório contém os dados utilizados no exercício do capítulo "Olhando para o presente e desvendando o passado com macroevolução" do E-book "Bioinformática: Uma Janela para a Biodiversidade". A árvore filogenética (arquivo 'arvore.nex') foi feita a partir do arquivo de filogenia GBMB.tre do trabalho de Smith & Brown (2018) que está disponível para download em: https://github.com/FePhyFoFum/big_seed_plant_trees/releases.
